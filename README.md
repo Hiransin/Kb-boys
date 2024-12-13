@@ -94,7 +94,6 @@
             margin-top: 40px;
             font-size: 1.1em;
         }
-
         /* Mobile responsiveness */
         @media (max-width: 600px) {
             nav a {
@@ -124,7 +123,6 @@
         <a href="#members">Our Members</a>
         <a href="#contact">Contact</a>
     </nav>
-
     <section id="about">
         <h2>About Us</h2>
         <p>We are the KB Boys, a group of friends who share a bond of laughter, fun, and endless memories. This page is dedicated to celebrating our friendship!</p>
